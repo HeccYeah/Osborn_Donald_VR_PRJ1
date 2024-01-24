@@ -1,17 +1,19 @@
 This is my current (INCOMPLETE) progress of the project. 
 I plan on resubmitting a completed functional version.
 
+https://github.com/HeccYeah/Osborn_Donald_VR_PRJ1
+
 Build setting has been completed with a series of models in the level environment
 (Personalized Custom model & textures with separate attachments i.e. armor, 
 undersuit, helmet, backpack, etc.)
 
-Additionally, a (nonfunctional) build is 
+Additionally, a (nonfunctional) build is present on the Metaquest 3 Headset [E].
 
 On first compile, the UE Log gives SocketException Errors.
 On second compile, the UE log gives apk installation fail errors.
 
 
-Notable last log snippet for debugging.
+Notable last log snippet for debugging from second compile.
 LogPlayLevel: UAT: ==== Template target file up to date so not writing. ====
 LogPlayLevel: UAT: Cleaning up files based on template dir C:\Users\Donald\Desktop\School Assignments\2024\VR\Project 1\Osborn_Donald_PRJ1\Build\Android\src\com\epicgames\Osborn_Donald_PRJ1
 LogPlayLevel: UAT: UPL Init: arm64-v8a
